@@ -1,0 +1,25 @@
+_repo: Tom-Fairfield-s-Hunting-Tripor-Lost-in-the-Wilderness_44457
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44457-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2013-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting stories'
+title: Tom Fairfield's Hunting Trip; or, Lost in the Wilderness
+url: http://www.gutenberg.org/ebooks/44457
