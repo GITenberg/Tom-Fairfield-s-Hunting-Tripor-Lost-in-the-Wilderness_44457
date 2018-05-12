@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44457#Tom-Fairfield-s-Hunting-Tripor-Lost-in-the-Wilderness
 gutenberg_issued: '2013-12-18'
 gutenberg_type: Text
 identifiers:
